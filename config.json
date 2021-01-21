@@ -1,0 +1,7 @@
+{
+    "token": "Dein Token",
+    "categoryID": "Die Id der Kategorie wo die Tickets rein sollen.",
+    "supportmessage": "Die Nachricht die als Ticketreaktion benutzt werden soll",
+    "supportrole": "Deine Teamrolle",
+    "premiumrole": "Deine Premium Rolle"
+}
